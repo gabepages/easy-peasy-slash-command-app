@@ -1,5 +1,5 @@
 {
-  "name": "cabinetsdotcom-slash-command",
+  "name": "cabinetsdotcom",
   "version": "1.0.0",
   "description": "The awesomest slash command evar.",
   "main": "index.js",
